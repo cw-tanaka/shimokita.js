@@ -4,7 +4,7 @@ Shimokita.js
 
 |次回開催日| イベントリンク |
 |:--------:|:--------------:|
-| __6/15(土)__| https://www.facebook.com/events/144033385780111/ |
+| __7/20(土)__| [http://atnd.org/events/41360](http://atnd.org/events/41360/edit) |
 
 
 ### Hash tag
